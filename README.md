@@ -1,10 +1,4 @@
-# Random-User
-Random user generator in VueJS
-
-# React-Tasks
-Tasks App written in React
-
-<p align="center"><img src="vs.png" width="350px"></p>
+<p align="center"><img src="VS.png" width="350px"></p>
 
 <h1 align="center">
     <strong>Random-User</strong>
